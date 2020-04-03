@@ -15,6 +15,7 @@ function onOff() {
         .toggle("addScroll")
 
     }
+
 //validação do formulário
 
 function checkFields (event){
